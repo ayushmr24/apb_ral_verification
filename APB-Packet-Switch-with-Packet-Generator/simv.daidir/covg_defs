@@ -1,0 +1,232 @@
+global coverage_group 0 tb_pkg::apb_coverage::apb_input_cg __coverage_apb_coverage.apb_input_cg unused_apb_coverage_apb_input_cg_loop_label tb_pkg 0 1 0 0 0  ( 0 
+)
+ 1 1
+ 119 /fetools/work_area/frontend/Batch_10/Ayush/apb_ral_verification/APB-Packet-Switch-with-Packet-Generator/apb_coverage.sv
+ 14 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+3
+0
+1
+0
+ 7 addr_cp 17 0 0 0 0 0 91 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn 91 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 16 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 26 1 1 0 0 1 1 9 DEVICE_ID 18 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 VERSION 19 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 13 SWITCH_STATUS 20 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_2 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 11 PORT_STATUS 21 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 GEN_STATUS 22 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_4 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 STAT_RX 23 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_5 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 STAT_TX 24 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_6 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 9 STAT_DROP 25 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_7 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 11 SWITCH_CTRL 26 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_8 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 11 PORT_ENABLE 27 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_9 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 FWD_ENABLE 28 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_a 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 8 GEN_CTRL 29 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_b 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 11 GEN_PKT_CFG 30 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_c 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 12 GEN_INTERVAL 31 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_d 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 9 GEN_COUNT 32 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_e 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 IRQ_STATUS 33 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 93 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_f 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 IRQ_ENABLE 34 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_10 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 9 IRQ_FORCE 35 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_11 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 ERR_STATUS 36 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_12 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 ERR_ENABLE 37 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_13 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 ERR_INJECT 38 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_14 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 9 ERR_COUNT 39 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_15 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 8 ERR_INFO 40 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_16 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 4 LOCK 41 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_17 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 SOFT_RESET 42 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_18 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 12 INVALID_ADDR 43 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 8 0 0 0 0 0 0 0 0 0
+
+ 9 access_cp 47 0 0 0 0 0 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_19 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_19 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 7 1 1 31 vcs_paramclassrepository::acc_e 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 4 READ 48 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_1a 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 5 WRITE 49 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_1b 0 0 0 0 0 0 0
+ 0
+
+ 8 wdata_cp 53 0 0 0 0 0 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_1c 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_1c 0 0 0 0 0 0 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_1d 0 0 0 -1 0 0 -1 0 0 0 2 32 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 10 write_data 54 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_1e 0 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_input_cg_fn_1f 0 0 0 0 0
+ 0
+
+ 13 addr_x_access 0 58 0 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group
+global coverage_group 0 tb_pkg::apb_coverage::apb_output_cg __coverage_apb_coverage.apb_output_cg unused_apb_coverage_apb_output_cg_loop_label tb_pkg 0 1 0 0 0  ( 0 
+)
+ 0 64 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+0
+0
+ 8 rdata_cp 67 0 0 0 0 0 92 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_output_cg_fn 92 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_output_cg_fn 0 0 0 0 0 0 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_output_cg_fn_0 0 0 0 -1 0 0 -1 0 0 0 2 32 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 9 read_data 68 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_output_cg_fn_1 0 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_output_cg_fn_2 0 0 0 0 0
+ 0
+
+ 8 error_cp 72 0 0 0 0 0 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_output_cg_fn_3 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_output_cg_fn_3 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 4 PASS 73 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_output_cg_fn_4 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 4 FAIL 74 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 94 tb_pkg_apb_coverage_11_0::tb_pkg_apb_coverage_11_0_tb_pkg_apb_coverage_11_0_apb_output_cg_fn_5 0 0 0 0 0 0 0
+ 0
+
+end_coverage_group
